@@ -10,7 +10,7 @@ Color colors[] = {RED, GREEN, BLUE, YELLOW, PURPLE, SKYBLUE, PINK, BROWN};
 #define START_TEXT "Press any button to start"
 #define WIDTH 1280
 #define HEIGHT 720
-#define BUTTON_COUNT 4
+#define BUTTON_COUNT 3
 #define RADIUS ((int)(HEIGHT / (BUTTON_COUNT + 3)))
 #define RECTANGLE_WIDTH (WIDTH / BUTTON_COUNT)
 #define DARKNESS -0.65
